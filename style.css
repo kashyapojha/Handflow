@@ -1,0 +1,33 @@
+.navbar-custom {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #dee2e6; 
+    border-radius: 0; 
+}
+
+.navbar-custom .navbar-brand {
+    color: #007bff; 
+    font-weight: bold; 
+}
+
+.navbar-custom .nav-link {
+    color: #6c757d;
+    font-weight: normal; /* Set font weight to normal */
+}
+
+.navbar-custom .nav-link.active {
+    color:#6c757d;
+    font-weight:normal;
+}
+
+
+.navbar-custom .navbar-toggler-icon {
+    color: #000; 
+}
+
+.navbar-custom .navbar-nav {
+    margin-left: auto;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    padding: 0.5rem 1rem; 
+}
